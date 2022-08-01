@@ -111,7 +111,7 @@ before vagy after pszeudo-elemei */
 
 /* 10: a menu__hamburger osztályú elemeken belül lévő span elemek 
 before pszeudo-elemei */
-_.menu__hamburger span::before
+.menu__hamburger span::before
 {
   top: -15px;
 }
